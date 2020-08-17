@@ -1,4 +1,4 @@
-alert('Addition Calculator');
+alert('Hi mathematician!');
 var x = prompt('Enter your favorite number');
 var y = prompt('Enter your age');
 
